@@ -1,8 +1,8 @@
 POST http://localhost:3001/api/notes
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMzI1MTE4YThhNjdhMTRiMjUzZTg1ZSIsInVzZXJuYW1lIjoiREcxMCIsImlhdCI6MTY0NzQ2OTg5N30.p_ZOktb1wJ37b6hnasHJ1TrXfFPzxU4iJOwiO-AcqfI
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMzRmODM1Nzk2NzllOGRlODZmMjQxYyIsInVzZXJuYW1lIjoiTVNmdWNrQ3VycnkiLCJpYXQiOjE2NDc2MzkzNDUsImV4cCI6MTY0Nzg5ODU0NX0.ko2R8k0OWE-pXXylcnHQv75NQbV_IXfmmN9LJXtoOkA
 
 {
-    "content" : "six? with user extractor",
+    "content" : "im sorry steph :c",
     "important" : true
 }
