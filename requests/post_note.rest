@@ -1,8 +1,7 @@
 POST http://localhost:3001/api/notes
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMzRmODM1Nzk2NzllOGRlODZmMjQxYyIsInVzZXJuYW1lIjoiTVNmdWNrQ3VycnkiLCJpYXQiOjE2NDc2MzkzNDUsImV4cCI6MTY0Nzg5ODU0NX0.ko2R8k0OWE-pXXylcnHQv75NQbV_IXfmmN9LJXtoOkA
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMzRmODM1Nzk2NzllOGRlODZmMjQxYyIsInVzZXJuYW1lIjoiTVNmdWNrQ3VycnkiLCJpYXQiOjE2NDc4OTM3MTgsImV4cCI6MTY0ODE1MjkxOH0.PdpNOT9CwdcgjsFQazqPikmEKawUcjRnHLFrMCBV_Yc
 
 {
-    "content" : "im sorry steph :c",
-    "important" : true
+    "content" : "probando"
 }
